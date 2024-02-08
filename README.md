@@ -18,7 +18,12 @@ Step to have a cleaned dataset: <br>
     2. Obtain the normal and fraud dataset. <br>
         As the models predict the outcome through classification, therefore the dataset for each class is needed. <br>
         In this case, it is "Normal" and "Fraud" <br>
-        This means that the dataset that are known to be "Normal" and "Fraud" is required. <br>
+        This means that the dataset that are known to be "Normal" and "Fraud" are required. <br>
+        For all the row of "Normal" dataset, the value of 0 is added at the last column <br>
+        For all the row of "Fraud" dataset, the value of 1 is added at the last column <br>
+
+![Example Dataset](screenshot/Example_0_1.png)
+
 3. Choose the features <br>
     The features that are think to be good contribution on predicting fraud can be used. <br>
     Besides, feature engineering can also be performed. <br>
