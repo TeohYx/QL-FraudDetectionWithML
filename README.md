@@ -13,12 +13,12 @@ git clone https://github.com/TeohYx/QL-CashTransactionDetector.git
 
 2. Provide a cleaned dataset <br>
 Step to have a cleaned dataset: <br>
-1. Remove all the missing / incomplete data <br>
-    This can be done in the Excel.
-2. Obtain the normal and fraud dataset. <br>
-    As the models predict the outcome through classification, therefore the dataset for each class is needed. <br>
-    In this case, it is "Normal" and "Fraud" <br>
-    This means that the dataset that are known to be "Normal" and "Fraud" is required. <br>
+    1. Remove all the missing / incomplete data <br>
+        This can be done in the Excel.
+    2. Obtain the normal and fraud dataset. <br>
+        As the models predict the outcome through classification, therefore the dataset for each class is needed. <br>
+        In this case, it is "Normal" and "Fraud" <br>
+        This means that the dataset that are known to be "Normal" and "Fraud" is required. <br>
 3. Choose the features <br>
     The features that are think to be good contribution on predicting fraud can be used. <br>
     Besides, feature engineering can also be performed. <br>
