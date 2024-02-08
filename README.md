@@ -22,7 +22,7 @@ Step to have a cleaned dataset: <br>
         For all the row of "Normal" dataset, the value of 0 is added at the last column <br>
         For all the row of "Fraud" dataset, the value of 1 is added at the last column <br>
 
-<p align="center">![Example Dataset](screenshot/Example%20Classification.png)</p>
+            ![Example Dataset](screenshot/Example%20Classification.png)
 
 3. Choose the features <br>
     The features that are think to be good contribution on predicting fraud can be used. <br>
@@ -31,7 +31,7 @@ Step to have a cleaned dataset: <br>
 ```
 Transaction duration = Transaction Close time - Transaction Start time
 ```
-<p align="center">![Example Dataset](screenshot/Example%20Dataset.png)</p>
+            ![Example Dataset](screenshot/Example%20Dataset.png)
 
 3. Run the script
 ```
