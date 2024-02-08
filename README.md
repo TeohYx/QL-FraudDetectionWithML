@@ -4,7 +4,7 @@ This script performs automated machine learning in detecting the potential fraud
 
 It means when we runs the script, the script will run through all the machine learning algorithm with the evaluation, often with accuracy, so that we can choose the best machine learning algorithm. 
 
-To begin with, the script just require a cleaned data with selected feature, and put it in the current directory.
+In general, the script just require a cleaned data with selected feature, and put it in the current directory.
 
 1. Clone the git project
 ```
